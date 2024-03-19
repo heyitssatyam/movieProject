@@ -1,0 +1,39 @@
+body {
+  background-image: linear-gradient(
+    45deg,
+    hsl(240deg 37% 64%) 0%,
+    hsl(275deg 34% 64%) 11%,
+    hsl(311deg 37% 66%) 22%,
+    hsl(333deg 57% 72%) 33%,
+    hsl(349deg 76% 77%) 44%,
+    hsl(4deg 91% 80%) 56%,
+    hsl(17deg 98% 79%) 67%,
+    hsl(27deg 95% 79%) 78%,
+    hsl(39deg 84% 78%) 89%,
+    hsl(55deg 66% 79%) 100%
+  );
+  color: white;
+  font-family: "Comfortaa", sans-serif;
+  margin-left: 14px;
+  text-shadow: 0 10px 10px rgba(0, 0, 0, 0.125);
+}
+img {
+  margin-right: 30px;
+  height: 45vh;
+  border-radius: 10px;
+  box-shadow: 0 50px 50px 10px rgba(0, 0, 0, 0.125);
+}
+iframe {
+  height: 45vh;
+  border-radius: 10px;
+  box-shadow: 0 50px 50px 10px rgba(0, 0, 0, 0.125);
+}
+
+h2 {
+  font-size: 48px;
+  font-weight: bolder;
+  margin-bottom: 8px;
+}
+p {
+  font-weight: 600;
+}
